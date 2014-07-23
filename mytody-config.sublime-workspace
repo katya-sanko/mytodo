@@ -1,0 +1,600 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"cu",
+				"currentSlide"
+			],
+			[
+				"ch",
+				"changeImage"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"note",
+				"noteDescription"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"p",
+				"parentElem"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"de",
+				"deleteNode"
+			],
+			[
+				"tr",
+				"treeMin"
+			],
+			[
+				"rotatet",
+				"rotateToLeft"
+			],
+			[
+				"rot",
+				"rotateToRight"
+			],
+			[
+				"ro",
+				"rotateToLeft"
+			],
+			[
+				"t",
+				"transplant"
+			],
+			[
+				"nod",
+				"node1"
+			],
+			[
+				"inse",
+				"insertNode"
+			],
+			[
+				"g",
+				"getParent"
+			],
+			[
+				"par",
+				"parentSearch"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"con",
+				"convertToSumOfChars"
+			],
+			[
+				"ge",
+				"getParent"
+			],
+			[
+				"get",
+				"getParent"
+			],
+			[
+				"ger",
+				"getParent"
+			],
+			[
+				"roo",
+				"root"
+			],
+			[
+				"le",
+				"leafN"
+			],
+			[
+				"r",
+				"rootN"
+			],
+			[
+				"R",
+				"RBT"
+			],
+			[
+				"insert_case",
+				"insert_case1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"m",
+				"minNode"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tra",
+				"traverseNode"
+			],
+			[
+				"node",
+				"nodeKey"
+			],
+			[
+				"no",
+				"nodeKey"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"incorrect",
+				"incorrectDate"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"su",
+				"sumRes"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"pa",
+				"parentNode"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"search",
+				"searchButton"
+			],
+			[
+				"wra",
+				"wrapperElem"
+			],
+			[
+				"ve",
+				"viewCount"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"pu",
+				"publishDate"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"you",
+				"youtubeLink"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"f",
+				"for	for (…) {…}"
+			],
+			[
+				"s",
+				"smtnhNode"
+			],
+			[
+				"c",
+				"currentNode"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"neW",
+				"newNode"
+			],
+			[
+				"pr",
+				"previous"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa i",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 95.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Катя/Documents/GitHub/mytodo/.editorconfig",
+		"/D/Frontend/bootstrap/attemp/index.html",
+		"/D/dentist/fix/css/styles.css",
+		"/D/dentist/fix/js/code.js",
+		"/D/dentist/fix/index.html",
+		"/C/Users/Ekaterina_Sanko/AppData/Local/Temp/7zE9B18.tmp/index.html",
+		"/C/Users/Ekaterina_Sanko/AppData/Local/Temp/7zECC57.tmp/code.js",
+		"/C/Users/Ekaterina_Sanko/AppData/Local/Temp/7zEAD04.tmp/styles.css",
+		"/D/New folder/demo.html",
+		"/D/dentist/src/config.sublime-project",
+		"/D/html5-boilerplate-4.3.0/css/main.css",
+		"/D/dentist/src/css/styles.css",
+		"/D/html5-boilerplate-4.3.0/index.html",
+		"/D/dentist/src/css/reset.css",
+		"/C/Users/Катя/Documents/GitHub/note/Gruntfile",
+		"/D/Frontend/courses/projects/2column/index.html",
+		"/D/Frontend/courses/lection.css",
+		"/D/Frontend/courses/projects/lection-27-05-2014.js",
+		"/D/Frontend/courses/projects/task3a/index.html",
+		"/D/Frontend/courses/projects/task3a/list.js",
+		"/D/Frontend/courses/projects/BST/code.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote-master/src/index.html",
+		"/C/Users/Катя/Documents/GitHub/OneNote-master/nodeServer.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote-master/build/staticServer.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote-master/requestHandlers.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote-master/router.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote-master/server.js",
+		"/C/Users/Катя/Desktop/hello.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote/src/scripts/view/Application.js",
+		"/C/Users/Катя/Dropbox/Public/note/js/code.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote/src/scripts/view/NoteView.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote/src/css/noteStyle.styl",
+		"/C/Users/Катя/Desktop/Фразы на каждый день.txt",
+		"/C/Users/Катя/Documents/GitHub/note2/index.html",
+		"/C/Users/Катя/Documents/GitHub/OneNote/src/scripts/view/style.styl",
+		"/C/Users/Катя/Documents/GitHub/OneNote/src/scripts/view/index.html",
+		"/D/Frontend/courses/AlexKarlovich-stylus-talk-frontend-course-spring-2014-a4e6e0853ff7/styles/33.styl",
+		"/D/Frontend/courses/AlexKarlovich-stylus-talk-frontend-course-spring-2014-a4e6e0853ff7/styles/11.styl",
+		"/C/Users/Катя/Documents/GitHub/OneNote/src/css/style.css",
+		"/C/Users/Катя/Documents/GitHub/OneNote-date_logic/src/scripts/DayNames.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote-date_logic/src/scripts/Months.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote-date_logic/src/scripts/DaysEnum.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote-date_logic/src/scripts/DateContainer.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote-date_logic/src/scripts/DateRange.js",
+		"/D/Frontend/Ekaterina_Sanko-front-end-course-5f673bbeaa8b/task1b/homepage.html",
+		"/D/Frontend/courses/projects/task3/index.html",
+		"/D/Frontend/Ekaterina_Sanko-front-end-course-5f673bbeaa8b/task1b/css/style.css",
+		"/D/Frontend/Ekaterina_Sanko-front-end-course-5f673bbeaa8b/task1b/css/reset.css",
+		"/C/Users/Катя/Documents/GitHub/note/index.html",
+		"/C/Users/Катя/Documents/GitHub/note/js/code.js",
+		"/C/Users/Катя/Documents/GitHub/note/css/style.styl",
+		"/D/Frontend/Ekaterina_Sanko-front-end-course-5f673bbeaa8b/task3/js/code.js",
+		"/C/Users/Катя/Documents/GitHub/OneNote/index.html",
+		"/C/Users/Катя/Documents/GitHub/OneNote/css/style.styl",
+		"/D/Frontend/Ekaterina_Sanko-front-end-course-5f673bbeaa8b/task3/index.html",
+		"/D/Frontend/courses/projects/BST/Gruntfile.js",
+		"/D/Frontend/courses/projects/BST/package.json",
+		"/C/Users/Катя/Projects/front-end-course/tree/test/RBT.spec.js",
+		"/C/Users/Катя/Projects/front-end-course/tree/test.html",
+		"/C/Users/Катя/Projects/front-end-course/tree/RBT.js",
+		"/D/Frontend/courses/projects/BST/index.html",
+		"/C/Users/Катя/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/Frontend/courses/projects/stylus try/package.json",
+		"/D/Frontend/courses/projects/stylus try/Gruntfile.js",
+		"/F/7/disney11.cs",
+		"/F/7/l7.cs",
+		"/F/7/l5.cs",
+		"/F/7/l9.cs",
+		"/F/7/testSuper.cs",
+		"/F/7/l6.cs",
+		"/F/7/10.cs",
+		"/F/7/l8.cs",
+		"/D/Frontend/courses/projects/RBT.js",
+		"/D/Frontend/courses/trees/auxiliary/dpr_rbt/units/RBT.pas",
+		"/D/Frontend/courses/projects/redblackTree.js",
+		"/C/Users/Катя/Projects/front-end-course/redBlackTree/test/RBT.spec.js",
+		"/C/Users/Катя/Projects/front-end-course/redBlackTree/test.html",
+		"/C/Users/Катя/Projects/front-end-course/redBlackTree/RBT.js",
+		"/D/универское/Надежность ПО/7/test_case10.cs",
+		"/D/универское/Надежность ПО/7/test4.cs",
+		"/D/универское/Надежность ПО/7/test5.cs",
+		"/D/универское/Надежность ПО/7/test3.cs",
+		"/D/универское/Радкевич/Test/WebApplication1/WebApplication1/Styles/Site.css",
+		"/D/универское/Надежность ПО/7/test2.cs",
+		"/D/универское/Надежность ПО/7/test1.cs",
+		"/D/универское/Надежность ПО/7/TestRC.java",
+		"/C/Users/Катя/Projects/front-end-course/tdd/source.spec.js",
+		"/C/Users/Катя/Projects/front-end-course/tdd/source.js",
+		"/C/Users/Катя/Projects/front-end-course/tdd/JamineTests.Runner.html",
+		"/D/Frontend/courses/projects/make.html",
+		"/C/Users/Катя/Projects/front-end-course/redBlackTree/test/pass.spec.js",
+		"/D/Frontend/Front-end Dev Course/make.html",
+		"/D/Frontend/Front-end Dev Course/projects/practise3/index.html",
+		"/D/Frontend/Front-end Dev Course/projects/testing/jasmine/source.spec.js",
+		"/D/Frontend/Front-end Dev Course/projects/testing/jasmine/source.js",
+		"/D/Frontend/Front-end Dev Course/projects/testing/jasmine/JamineTests.Runner.html",
+		"/C/Users/Катя/Projects/front-end-course/task3a/list.js",
+		"/D/Frontend/javascript/placeholder/js/placeholder.js",
+		"/D/Frontend/Front-end Dev Course/projects/websockets.html",
+		"/D/Frontend/Front-end Dev Course/projects/testing/test.html",
+		"/D/Frontend/Front-end Dev Course/projects/testing/test/pass.spec.js",
+		"/C/Users/Катя/Projects/front-end-course/make/make.js",
+		"/D/Frontend/Front-end Dev Course/websocket.html",
+		"/D/Frontend/lection.css",
+		"/F/websockets.html",
+		"/D/Frontend/Front-end Dev Course/projects/stylus try/styles/33.styl",
+		"/C/Users/Катя/Projects/front-end-course/task3/css/style.styl",
+		"/D/Frontend/Front-end Dev Course/projects/stylus try/index.html",
+		"/D/Frontend/Front-end Dev Course/projects/stylus try/styles/Gruntfile.js",
+		"/D/Frontend/Front-end Dev Course/projects/ws_try.js",
+		"/C/Users/Катя/Projects/front-end-course/task3/Gruntfile.js",
+		"/D/Frontend/Front-end Dev Course/projects/stylus try/Gruntfile.js",
+		"/C/Users/Катя/Projects/front-end-course/task3/node_modules/grunt-contrib-jshint/package.json",
+		"/C/Users/Катя/Projects/front-end-course/task3/package.json",
+		"/C/Users/Катя/Projects/front-end-course/task3/css/style.css",
+		"/C/Users/Катя/Projects/front-end-course/task3/js/code.js",
+		"/C/Users/Катя/Projects/front-end-course/task3/index.html",
+		"/D/Frontend/Front-end Dev Course/projects/ex.html",
+		"/C/Users/Катя/Projects/front-end-course/task3a/index.html",
+		"/D/Frontend/Front-end Dev Course/projects/stylus try/styles/1.styl",
+		"/D/Frontend/AlexKarlovich-stylus-talk-frontend-course-spring-2014-a4e6e0853ff7/index.html",
+		"/D/Frontend/AlexKarlovich-stylus-talk-frontend-course-spring-2014-a4e6e0853ff7/package.json",
+		"/D/Frontend/AlexKarlovich-stylus-talk-frontend-course-spring-2014-a4e6e0853ff7/styles/stylus.css",
+		"/C/Program Files/nodejs/node_modules/npm/package.json",
+		"/D/Frontend/Front-end Dev Course/projects/task3/index.html",
+		"/D/Frontend/Front-end Dev Course/projects/task3/js/code.js",
+		"/D/Frontend/Front-end Dev Course/projects/task3/css/style.css",
+		"/D/Frontend/Front-end Dev Course/projects/BST/code.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aside",
+			"expanded",
+			".expanded",
+			"expanded",
+			".logo",
+			"expanded",
+			"}",
+			"{",
+			"wrapper",
+			"eos",
+			"ous",
+			"min",
+			"search",
+			"jar",
+			"Red",
+			"doSend",
+			"console",
+			"console.table",
+			"syncRadios",
+			"add",
+			"addScriptTag",
+			" syncRadios",
+			"1000",
+			"container",
+			"<",
+			"><"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"frame",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 245.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
